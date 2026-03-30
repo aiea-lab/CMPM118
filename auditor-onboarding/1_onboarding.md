@@ -12,7 +12,7 @@
     - [ ]  Add your project if known
     - [ ]  Optional: Add a photo
     - [ ]  Optional: Give yourself an informative emoji.
-- [ ]  Join the Lab Discord - [https://discord.gg/d4X7ZKeq](https://discord.gg/r5XzUw6s)
+- [ ]  Join the Lab Discord - [https://discord.gg/eEmWTFCh](https://discord.gg/eEmWTFCh)
     - [ ]  Change your nickname to your name
     - [ ]  Introduce yourself and ask for the auditor role on discord
 - [ ]  Sign up for 5 units (this is *not* required for summer students or interns):
