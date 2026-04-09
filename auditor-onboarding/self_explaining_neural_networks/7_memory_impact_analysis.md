@@ -11,7 +11,7 @@ Quarter: winter26
         - Does this correct the predictions? For how many? What are your thoughts?
     - [ ]  test as many **random** memory sets as possible until you find one that corrects the original predictions and analyze the identified memory sets
         - Do you see any patterns?  Can you identify why this specific random memory sets help the model?
-        - NOTE: it is possible some images are not able to be corrected even with after a large number of random sets. If this occurs, include an analysis of why you believe this happens, particuarly considering the diferences of the memory wrap and baseline memory models.
+        - NOTE: it is possible some images are not able to be corrected even with after a large number of random sets. If this occurs, include an analysis of why you believe this happens, particuarly considering the differences of the memory wrap and baseline memory models.
 - [ ]  Analyze the results
     - [ ]  What do you observe?
     - [ ]  Are there any changes in the explanation or the prediction outcome? How many?
