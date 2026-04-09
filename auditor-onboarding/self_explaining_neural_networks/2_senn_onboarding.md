@@ -16,6 +16,7 @@ Quarter: winter26
     Tip: Follow Instructions on “Paper Documentation”
     
 - [ ]  Generate the explanation figures for the pre-trained model included in the repository (2000.pt) on the test dataset for at least 10 inputs
+    - Note: The script does not need to finish running for figures to be generated, they are being generated as the program runs.  
     - Hint: Read the Scripts documentation and use one of the scripts in the repo (using the proper parameters) to generate them!
 - [ ]  Create a github repo and upload there your starting code.
 
