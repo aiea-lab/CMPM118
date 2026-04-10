@@ -65,7 +65,7 @@
     - [ ]  (For `forked` repo) Create a pull request to merge into master. See more here:
 - [ ]  Add yourself to the group google calendar: [google calendar](https://calendar.google.com/calendar/u/0?cid=Y19iMzYxYWYyZGVjZDA4ZmE4MWFlZTkyMjMxNjNlMGU5NWMxNDU2MmRkOGZmZDMxYWZhNWRjYzY5MmZiOTgzOTVkQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
     
-    [](https://calendar.google.com/calendar/u/0/r?cid=c_b361af2decd08fa81aee9223163e0e95c14562dd8ffd31afa5dcc692fb98395d@group.calendar.google.com)
+    [ ](https://calendar.google.com/calendar/u/0/r?cid=c_b361af2decd08fa81aee9223163e0e95c14562dd8ffd31afa5dcc692fb98395d@group.calendar.google.com)
     
 - [ ]  Add yourself to the auditors group mailing list if you haven’t been added already https://groups.google.com/a/ucsc.edu/g/aiea-auditors-group/members
 - [ ]  Make sure you can access the [group google drive:](https://drive.google.com/drive/folders/14KZ_JnDH_bNm5lx2XlGXVn42W1TMObro?usp=drive_link)
