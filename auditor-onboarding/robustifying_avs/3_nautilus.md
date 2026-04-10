@@ -15,7 +15,7 @@
         - [ ]  Use nautilus jupyterhub - https://jupyterhub-west.nrp-nautilus.io/hub/
             - [ ]  Upload this python notebook and get it to run
                 
-                [cifar10_tutorial.ipynb](./nautilus_files/cifar10_tutorial.ipynb)
+                [cifar10_tutorial.ipynb](../nautilus_files/cifar10_tutorial.ipynb)
                 
                 - You will need to pip install all necessary packages
                 - It is normal to have to wait
@@ -26,7 +26,7 @@
             - [ ]  Create a deployment and attach created PVC to it
             - [ ]  Train this CNN Classifier on the deployment
                 
-                [cifar10train.py](./nautilus_files/cifar10train.py)
+                [cifar10train.py](../nautilus_files/cifar10train.py)
                 
                 - Can either attach VS Code session or use SCP to transfer file from local to deployment
             - [ ]  Delete Deployment
