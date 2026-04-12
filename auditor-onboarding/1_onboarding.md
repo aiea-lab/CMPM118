@@ -30,10 +30,12 @@
         - [ ]  Replace `[your_name]` with your name
         - [ ]  Change the `date` to the date you joined the group.
         - [ ]  Make the id your first name (if unique in the group, otherwise add a last initial as well).
+        - [ ]  Write any research related interests you have in `interests`
         - [ ]  Change `name=""` to `name=[your_full_name]`
         - [ ]  Add your picture
             1. Copy a square photo of yourself into `static/img/portraits` as `[your_name].jpg`
             2. Replace `[your_name]` in `portraits/[your_name].jpg`
+              (Be mindful of the file extension of your image i.e. 'jpg' is not 'jpeg' is not 'JPG')
         - [ ]  Add a short bio for yourself in the `short_bio`
         - [ ]  Add a short name for yourself
         - [ ]  Add a title, e.g., Undergraduate, Masters, PhD, PhD candidate, Collaborator, etc.
@@ -44,7 +46,7 @@
             - [ ]  Add your github name
         - [ ]  Add your education (course is the degree you received: PhD, MS, BS).
         - [ ]  Add your role at UCSC (PhD, MS, BS, collaborator).
-        - [ ]  Add education with `[[education]] course = "" institution = "" year = 2023`
+        - [ ]  Add education with `[[education]] course = "" institution = "" year = 2026`
         - [ ]  Add bio and any other information.
     - [ ]  Test your changes, by running `hugo server` and checking the changes on `localhost`
         - [ ]  Only commit your `[name].md` and image file (which should be located in `static/img/portraits/`
