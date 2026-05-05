@@ -5,15 +5,9 @@ Labels: Auditor, Intern
 Quarter: Spring 25
 
 <aside>
-💡
-
-Your goal for this week is to migrate your logical inference engine to LangGraph and expand it’s capabilities
+🖊️ Your goal for this week is to migrate your logical inference engine to LangGraph and expand its capabilities.
 
 </aside>
-
-- Write one page about your implementation and the tests you ran. Please, include the link to the github repo in this deliverable.
-
-# Deliverable
 
 - [ ]  Read about LangGraph
     - https://www.langchain.com/langgraph
@@ -25,3 +19,7 @@ Your goal for this week is to migrate your logical inference engine to LangGraph
 - [ ]  Refine your solution either using more knowledge (with an additional retrieval), chain of Thought or other self refinement into your solution
 
 - [ ]  Commit your code and tutorial to github.
+
+# Deliverable
+
+- Write one page about your implementation and the tests you ran. Please, include the link to the github repo in this deliverable.
