@@ -5,16 +5,16 @@ Labels: Auditor, Intern
 Quarter: Spring 25
 
 <aside>
-🖊️ Your goal for this week is to integrate langchain into your logical inference engine
+🖊️ Your goal for this week is to integrate LangChain with your logical inference engine.
 
 </aside>
 
-- [ ]  Read about langchain
+- [ ]  Read about LangChain
     - https://www.langchain.com/
     - [https://python.langchain.com/docs/tutorials/](https://python.langchain.com/docs/tutorials/)
-- [ ]  Download and setup langchain into your development
-- [ ]  Find or make a simple (10-20 facts, 5-10 rules) prolog knowledge base
-- [ ]  Reimplement your solution for one of these papers from task 5 in langchain
+- [ ]  Download and setup LangChain into your environment
+- [ ]  Find or make a simple (10-20 facts, 5-10 rules) Prolog knowledge base
+- [ ]  Integrate your solution for one of these papers from Task 5 with LangChain
     - Logic-LM: [https://arxiv.org/abs/2305.12295](https://arxiv.org/abs/2305.12295)
     - LINC: [https://arxiv.org/abs/2310.15164](https://arxiv.org/abs/2310.15164)
     - Symbol-LLM: [https://arxiv.org/abs/2311.09278](https://arxiv.org/abs/2311.09278)
