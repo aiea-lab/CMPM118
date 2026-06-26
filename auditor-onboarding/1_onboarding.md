@@ -21,10 +21,12 @@
     [Independent Study Guidelines](https://www.notion.so/Independent-Study-Guidelines-2ae3eb5c200242ca8c25292aad2b8082?pvs=21)
 - [ ]  Add yourself to the AIEA Lab website (you can use the information you added from the internal members page):
     - [ ]  Request to join the AIEA github on dicord.
-    - [ ]  Download hugo.
+    - [ ]  Download [hugo](https://gohugo.io/installation/).
+        - For mac, I recommmend doing `brew install hugo`, if you don't have brew installed, you can [download it](https://brew.sh/).
     - [ ]  Checkout or fork the group website: https://github.com/aiea-lab/aiea-lab.github.io
+        - To clone the repository, type: `git clone git@github.com:aiea-lab/aiea-lab.github.io.git` on the command line, and then go into the repository with `cd aiea-lab.github.io.git`
     - [ ]  Follow the steps on the README to ensure that that you can run the website locally using `hugo server` (and go to [localhost](http://localhost) to check)
-    - [ ]  Create a new branch (which will be turned into a PR and then merged): `git checkout -b [your_name]_auditor` (or whatever you would like to make it).
+    - [ ]  Create a new branch (which will be turned into a PR and then merged): `git checkout -b [your_name]_auditor` (or whatever you would like to name it).
     - [ ]  Create your group member profile.  Copy one of the existing member profiles, or you can copy the template: `cp archetypes/person.md content/auditor/[your_name].md`
     - [ ]  Edit `[your_name].md`
         - [ ]  Replace `[your_name]` with your name
@@ -38,6 +40,7 @@
               (Be mindful of the file extension of your image i.e. 'jpg' is not 'jpeg' is not 'JPG')
         - [ ]  Add a short bio for yourself in the `short_bio`
         - [ ]  Add a short name for yourself
+              - Make sure your `short_name` is not taken by anyone else!  
         - [ ]  Add a title, e.g., Undergraduate, Masters, PhD, PhD candidate, Collaborator, etc.
         - [ ]  Add socials:
             - [ ]  Add email in `[your_name]@ucsc.edu`
@@ -75,6 +78,3 @@
 
 - Write one page about getting onboarded to github and any issues or feedback you have.
 - Upload your deliverable to Canvas under deliverable 1.
-
-# Don't Forget
-- Don't forget to fill out the [weekly status form](https://www.notion.so/aiea/16cc03a14c2c8069881de3f814456c59?pvs=106) on Fridays at 5pm. 
