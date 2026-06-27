@@ -5,23 +5,22 @@ Labels: Auditor, Intern
 Quarter: Spring 25
 
 <aside>
-💡
-
-Your goal for this week is to migrate your logical inference engine to LangGraph and expand it’s capabilities
+🖊️ Your goal for this week is to migrate your logical inference engine to LangGraph and expand its capabilities.
 
 </aside>
-
-- Write one page about your implementation and the tests you ran. Please, include the link to the github repo in this deliverable.
-
-# Deliverable
 
 - [ ]  Read about LangGraph
     - https://www.langchain.com/langgraph
     - [https://langchain-ai.github.io/langgraph/concepts/why-langgraph/](https://langchain-ai.github.io/langgraph/concepts/why-langgraph/)
-- [ ]  Download and setup LangGraph into your development
-- [ ]  Find or make a simple (10-20 facts, 5-10 rules) prolog knowledge base.  These can be the same KB + rules that you’ve been using in your onboarding tasks so far.
+- [ ]  Download and setup LangGraph into your environment
 - [ ]  Migrate your Task 8 LangChain solution to LangGraph
-- [ ]  After using RAG to get context from the knowledge base, use LangGraph to judge it’s relevancy
-- [ ]  Refine your solution either using more knowledge (with an additional retrieval), chain of Thought or other self refinement into your solution
+- [ ]  After using RAG to get context from the knowledge base, use LangGraph to judge the context's relevance to the query
+- [ ]  Refine your solution in one or more of the following ways:
+    - Use more knowledge (with an additional retrieval)
+    - Chain-of-thought
+    - Other self-refinement
+- [ ]  Commit your code and writeup to GitHub
 
-- [ ]  Commit your code and tutorial to github.
+# Deliverable
+
+- Write one page about your implementation and the tests you ran. Please include the link to the GitHub repo in your deliverable.
