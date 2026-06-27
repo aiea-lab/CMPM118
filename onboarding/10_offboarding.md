@@ -49,6 +49,7 @@ Congratulations!  You’ve finished the auditor program!  Now what’s next?
     3. LLM logic
         
         [Join LLM Logic!](https://www.notion.so/team/21c564c6-a5b2-47d3-ac19-7b778d8778f6/join)
-        
+- [ ] For those who audited either **Neuron Explanations** or **Self-Explainable Neural Networks**, fill out [Form 1](https://biagiomattialarosa.github.io/alignment/) and [Form 2](https://biagiomattialarosa.github.io/alignment2/). These alignment forms help us collect relevant information and adapt our mentoring style to your preferences where possible.
+
 - [ ]  Fill out the onboarding forms and schedule a meeting with Leilani to go through the results
 - [ ]  Make sure you fill out the timely for the appropriate quarter

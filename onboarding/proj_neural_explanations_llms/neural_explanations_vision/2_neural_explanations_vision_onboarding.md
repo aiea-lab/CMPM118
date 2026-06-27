@@ -23,7 +23,7 @@ Quarter: winter26
 
 ## Deliverables
 
-- [ ]  Submit the the list of the neurons explanations. Each item in the list should be in the following format: <Neuron ID> - <Cluster Number> - <Explanation>
+- [ ]  Submit the the list of the neurons explanations. Each item in the list should be in the following format: `<Neuron ID>` - `<Cluster Number>` - `<Explanation>`
     - [ ]  If your workstation does not meet the RAM requirements and the script crashed after loading the layer activation, please submit a screenshot including the computer name and the information printed by the script before crashing
 - [ ]  Submit a short textual description highlighting your workstation setup (GPU, amount of RAM, OS, number of CPUs) and any additional steps you had to follow in order to prepare your local environment and successfully run the script on your specific setup (OS, environment, etc). Include the github repo link.
     - If you followed the instructions in the repository documentation and you didn’t have to take any additional steps, please include only the workstation setup the sentence “I didn’t need any addition steps to run the script.”
