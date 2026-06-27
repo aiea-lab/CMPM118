@@ -1,6 +1,6 @@
 # Tasks
 - [ ]  Read and agree to the [group expectations](https://docs.google.com/document/d/1RdUDc-3IlxvtmzgO67xgRhiaI-1ztCdxiZT3Brb-LLo/edit?usp=sharing).
-    - [ ]  Ask any questions to @lgilpin on discord
+    - [ ]  Ask any questions to @leilani9567 on discord
     - [ ]  Feel free to add suggestions in comments
 - [ ]  Join the auditor teamspace on Notion
 - [ ]  Add yourself to the members database: [Members](https://www.notion.so/16e0927aad754d5b996ca393d231ac08?pvs=21)
