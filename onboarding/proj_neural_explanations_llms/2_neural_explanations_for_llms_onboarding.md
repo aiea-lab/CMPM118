@@ -10,6 +10,7 @@ Quarter: winter26
 - [ ]  Download/clone the repository
 - [ ]  Prepare your local environment by installing all dependencies and requirements specified in the repository
     - [ ]  Document every problem you encounter and its solution!
+    - Note: if you are having trouble running the code, you can use the docker image in [this repo](https://github.com/KRLGroup/Clustered-Compositional-Explanations).
 - [ ]  Generate the compositional explanations for **10 units of your choice** for the LSTM (Bowman) model on the NLI task
     - Hint: Set up the number of workers based on the number of CPUs on your workstation to speed up the process
 - [ ]  Create a github repo and upload there your starting code.
