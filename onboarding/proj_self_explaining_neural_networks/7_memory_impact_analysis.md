@@ -1,9 +1,6 @@
-# TEMPLATE SENN Task 7: Memory Impact Analysis
+# Task 7: Memory Impact Analysis
 
-Status: Backlog
-Quarter: winter26
 
-# Self-Explainable Deep Neural Network Project
 
 - [ ]  Modify the script to generate memory images such that the script can test a single image (or batch of images) with different memory set
 - [ ]  For each of the 20 selected wrong predictions,

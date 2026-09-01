@@ -1,9 +1,6 @@
-# TEMPLATE SENN Task 6: Filtering and Enriching Explanations
+# Task 6: Filtering and Enriching Explanations
 
-Status: Backlog
-Quarter: winter26
 
-# Self-Explainable Deep Neural Network Project
 
 - [ ]  Modify the script to generate memory images that also show the index of each input image (e.g., in the textual part)
 - [ ]  Modify the script to show the “true” class for each input image in the figure (e.g., in the textual part)

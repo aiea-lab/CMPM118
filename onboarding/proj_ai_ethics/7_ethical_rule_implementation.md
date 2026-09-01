@@ -1,4 +1,4 @@
-# AI Ethics Task 7: Rule Implementation
+# Task 7: Rule Implementation
 
 The goal of this week is to create a rule or guardrail to catch ethical failures.
 

@@ -1,4 +1,6 @@
-🚗 Your goal for this week is delve deeper into RL algorithms
+# Task 6: Learn RL Algorithms
+
+Your goal for this week is to study reinforcement learning algorithms in greater depth.
 - [ ]  Read a few core papers on RL and prepare a 5-10 slides presentation summarizing **one** paper
     - PPO https://arxiv.org/abs/1707.06347
     - SAChttps://arxiv.org/abs/1801.01290

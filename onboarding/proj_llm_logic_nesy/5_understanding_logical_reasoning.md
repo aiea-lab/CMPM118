@@ -1,13 +1,8 @@
-# TEMPLATE LLM Task 5: Understanding Logical Reasoning
+# Task 5: Understanding Logical Reasoning
 
-Status: Backlog
-Labels: Auditor, Intern
-Quarter: Spring 25
 
-<aside>
-🖊️ Your goal for this week is learn how to use a logical reasoning engine for the LLM logic project.
+Your goal for this week is to learn how to use a logical reasoning engine for the LLM logic project.
 
-</aside>
 
 - [ ]  Make sure you are a part of  a team!  And add it to the projects database as a subproject
 - [ ]  Read one of the papers on the core work in LLM robustness and logical reasoning.  Prepare a presentation with 5-10 slides summarizing it.

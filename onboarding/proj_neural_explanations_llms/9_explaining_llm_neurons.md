@@ -1,9 +1,6 @@
-# TEMPLATE XAI_LLM Task 9: Explaining LLM Neurons
+# Task 9: Explaining LLM Neurons
 
-Status: Backlog
-Quarter: winter26
 
-# Neural Explanations (LLMs) Project
 
 - [ ]  This task can be completed either on Nautilus or on your own workstation
 - [ ]  The goal of this task is to learn how to hook activations in a model and explain some of neurons in LLM

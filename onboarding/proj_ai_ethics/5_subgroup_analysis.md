@@ -1,4 +1,4 @@
-# Task: Subgroup Evaluation (Bias Audit)
+# Task 5: Subgroup Evaluation (Bias Audit)
 
 ## Objective
 The goal of this task is to **quantitatively evaluate model behavior across different subgroups**.
@@ -97,5 +97,4 @@ Include tables such as:
 - Dataset size and coverage
 - Proxy choices for subgroups
 - Measurement noise or subjectivity
-
 

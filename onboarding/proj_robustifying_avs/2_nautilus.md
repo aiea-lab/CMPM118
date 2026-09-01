@@ -1,9 +1,5 @@
-# TEMPLATE SENN Task 3: Nautilus
 
-Status: Backlog
-Quarter: winter26
-
-# Nautilus
+# Task 2: Nautilus
 
 - [ ]  Go through the Nautilus guide:
     
@@ -25,7 +21,7 @@ Quarter: winter26
                 - You will need to pip install all necessary packages
                 - It is normal to have to wait
         - [ ]  Create PVC
-            - [ ]  name is `cruzid-task3`
+            - [ ]  name is `cruzid-task2`
             - [ ]  size `5Gi`
         - [ ]  Create Deployment
             - [ ]  Create a deployment and attach created PVC to it
@@ -51,7 +47,7 @@ Quarter: winter26
 - Screenshot showing the training log of cifar10.py
     - Expected
         
-        ![image.png](../nautilus_files/image.png)
+        ![Expected CIFAR-10 training output](../nautilus_files/image.png)
         
         - Notably we will check if your device is cuda
 
@@ -62,5 +58,6 @@ Quarter: winter26
 - k9s is another helpful tool
     - https://k9scli.io/
 - Resources
+    - [Nautilus Guide 2.0](https://www.notion.so/Nautilus-Guide-2-0-2f9c03a14c2c80bd838bf9c7853f4d4d?pvs=21)
     - [Nautilus Guide](https://www.notion.so/Nautilus-Guide-f486e7601e6b496e94d9ffeae1bd1f87?pvs=21)
     - https://nrp.ai/documentation/

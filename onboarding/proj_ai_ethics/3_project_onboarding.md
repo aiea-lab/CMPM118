@@ -1,4 +1,4 @@
-# Task 2: AI Ethics Onboarding
+# Task 3: AI Ethics Onboarding
 
 ## Objective Your goal for this week is to:
 

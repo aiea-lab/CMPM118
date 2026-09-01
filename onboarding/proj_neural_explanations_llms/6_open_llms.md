@@ -1,9 +1,6 @@
-# TEMPLATE XAI_LLM Task 6: Open LLMs
+# Task 6: Open LLMs
 
-Status: Backlog
-Quarter: winter26
 
-# Neural Explanations (LLMs) Project
 
 - [ ]  This task can be completed either on Nautilus or on your own workstation
 - [ ]  Download an Open Large Language Model of your choice

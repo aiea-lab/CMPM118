@@ -1,9 +1,6 @@
-# TEMPLATE SENN Task 8: Error Correction
+# Task 8: Error Correction
 
-Status: Backlog
-Quarter: winter26
 
-# Self-Explainable Deep Neural Networks Project
 
 - [ ]  For each of the 20 wrong predictions selected in the previous task, identify (if possible) a memory set that corrects the prediction for that input (i.e., identify a strategy to select the memory set).
     - **!!Important**:

@@ -1,9 +1,6 @@
-# TEMPLATE VISION Task 4: Run the Code (Nautilus)
+# Task 4: Run the Code (Nautilus)
 
-Status: Backlog
-Quarter: winter26
 
-# Neural Explanations (Vision) Project
 
 The goal of this week is to run the code you tested in Task 2 on Nautilus. 
 

@@ -1,13 +1,8 @@
-# TEMPLATE LLM Task 6: Researching other Logics + LLMs
+# Task 6: Researching other Logics + LLMs
 
-Status: Backlog
-Labels: Auditor, Intern
-Quarter: Spring 25
 
-<aside>
-🖊️ Your goal for this week is to research how LLMs are able to translate to other types of logics (including temporal logics, deontics,  datalog, etc.)
+Your goal for this week is to research how LLMs are able to translate to other types of logics (including temporal logics, deontics,  datalog, etc.)
 
-</aside>
 
 - [ ]  Read about some of the following *other* logics. Prepare a presentation with 5-10 slides summarizing one of them.
 - Datalog

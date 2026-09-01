@@ -1,13 +1,8 @@
 # Task 8: RL Refinement
 
-Status: Backlog
-Labels: Auditor, Intern
-Quarter: Spring 25
 
-<aside>
-🚗 Your goal for this week is better refine your RL algorithms on your Nautilus deployment
+Your goal for this week is to refine your RL algorithms on your Nautilus deployment
 
-</aside>
 
 - [ ]  Using your core implementation fine-tine the model and apply it to the same enviorment.
 This may involve:

@@ -1,4 +1,4 @@
-# AI Ethics Task 6: Adversarial Prommpts
+# Task 6: Adversarial Prompts
 
 Goal: The goal of this week is to design and test a series of prompts that showcase safety violations.
 

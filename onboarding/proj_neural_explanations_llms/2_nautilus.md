@@ -1,6 +1,7 @@
-# AI Ethics Task 3: Nautilus
+# Task 2: Nautilus
 
-# Nautilus
+
+# Neuron Explanations for LLMs
 
 - [ ]  Go through the Nautilus guide:
     
@@ -15,14 +16,14 @@
     - [ ]  Read [Nautilus Guide 2.0](https://www.notion.so/Nautilus-Guide-2-0-2f9c03a14c2c80bd838bf9c7853f4d4d?pvs=21)
     - [ ]  To get experienced using Nautilus, complete the following:
         - [ ]  Use nautilus jupyterhub - https://jupyterhub-west.nrp-nautilus.io/hub/
-            - [ ]  Upload this python notebook and go through this tutorial
+            - [ ]  Upload this python notebook and get it to run
                 
                 [cifar10_tutorial.ipynb](../nautilus_files/cifar10_tutorial.ipynb)
                 
                 - You will need to pip install all necessary packages
                 - It is normal to have to wait
         - [ ]  Create PVC
-            - [ ]  name is `cruzid-task3`
+            - [ ]  name is `cruzid-task2`
             - [ ]  size `5Gi`
         - [ ]  Create Deployment
             - [ ]  Create a deployment and attach created PVC to it

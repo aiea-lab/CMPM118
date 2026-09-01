@@ -1,13 +1,8 @@
 # Task 7: Learning [More] RL Algorithms
 
-Status: Backlog
-Labels: Auditor, Intern
-Quarter: Spring 25
 
-<aside>
-🚗 Your goal for this week is better understand RL algorithms on your Nautilus deployment
+Your goal for this week is to better understand RL algorithms on your Nautilus deployment
 
-</aside>
 
 - [ ]  Prepare a 5-10 slides presentation summarizing **another** paper
     - PPO https://arxiv.org/abs/1707.06347

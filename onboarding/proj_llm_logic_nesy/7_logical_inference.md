@@ -1,13 +1,8 @@
-# TEMPLATE LLM Task 7: Logical Inference
+# Task 7: Logical Inference
 
-Status: Backlog
-Labels: Auditor, Intern
-Quarter: Spring 25
 
-<aside>
-🖊️ Your goal for this week is to research how to do logical inference
+Your goal for this week is to research how to do logical inference
 
-</aside>
 
 - [ ]  Read about forward chaining and backward chaining
     - https://web.mit.edu/6.034/wwwbob/rules-notes.pdf

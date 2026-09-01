@@ -1,9 +1,6 @@
-# TEMPLATE SENN Task 9: Training
+# Task 9: Training
 
-Status: Backlog
-Quarter: winter26
 
-# Self-Explainable Deep Neural Networks Project
 
 - [ ]  If you identified a viable strategy, test the same general strategy in training and compare the performance with and without your strategy (using the same setup, so 2000 samples dataset and SVHN for at least 3 different runs/seed).
     - You will need to apply the modifications to the training script

@@ -1,4 +1,6 @@
-🚗 Your goal for this week is to get CARLA working on Nautilus. 
+# Task 4: Run AV Simulations on Nautilus
+
+Your goal for this week is to get CARLA working on Nautilus.
 
 Some scripts and documentation might be out of date, come to working sessions and PMs can help you get set up if you’re stuck.
 

@@ -1,9 +1,6 @@
-# TEMPLATE VISION Task 5: Read the Reference Paper
+# Task 5: Read the Reference Paper
 
-Status: Backlog
-Quarter: winter26
 
-# Neural Explanations (Vision) Project
 
 - [ ]  Read the paper [https://proceedings.neurips.cc/paper_files/paper/2023/file/debd0ae2083160397a22a4a8831c7230-Paper-Conference.pdf](https://proceedings.neurips.cc/paper_files/paper/2023/file/debd0ae2083160397a22a4a8831c7230-Paper-Conference.pdf)
     

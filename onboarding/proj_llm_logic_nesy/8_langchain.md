@@ -1,13 +1,8 @@
-# TEMPLATE LLM Task 8: LangChain
+# Task 8: LangChain
 
-Status: Backlog
-Labels: Auditor, Intern
-Quarter: Spring 25
 
-<aside>
-🖊️ Your goal for this week is to integrate langchain into your logical inference engine
+Your goal for this week is to integrate LangChain into your logical inference engine
 
-</aside>
 
 - [ ]  Read about langchain
     - https://www.langchain.com/
