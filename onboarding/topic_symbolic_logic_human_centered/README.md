@@ -1,4 +1,6 @@
-# NeuroSymbolic AI: LLMs and Logic
+# Symbolic + Logic + Human-centered
+
+The existing task sequence below focuses on NeuroSymbolic AI: LLMs and Logic.
 
 This track studies faithful reasoning systems that combine language models with symbolic logic.
 

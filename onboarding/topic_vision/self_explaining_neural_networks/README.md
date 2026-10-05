@@ -10,7 +10,7 @@ This track studies Memory Wrap and how memory-based explanations affect predicti
 
 ## Tasks
 
-Complete the shared [Task 1](../1_onboarding.md), Tasks 2–9 in this folder, and the shared [Task 10](../10_offboarding.md), in numerical order.
+Complete the shared [Task 1](../../1_onboarding.md), Tasks 2–9 in this folder, and the shared [Task 10](../../10_offboarding.md), in numerical order.
 
 ## Reading list
 
