@@ -1,9 +1,6 @@
-# TEMPLATE SENN Task 2: SENN Onboarding
+# Task 3: SENN Onboarding
 
-Status: Backlog
-Quarter: winter26
 
-# Self-Explainable Deep Neural Network Project
 
 - [ ]  Read the documentation associated with the Memory Wrap Repository
     - [ ]  Package Documentation: [https://github.com/KRLGroup/memory-wrap/tree/master](https://github.com/KRLGroup/memory-wrap/tree/master)

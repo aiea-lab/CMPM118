@@ -1,11 +1,8 @@
-# TEMPLATE VISION Task 8: Quality of Explanations
+# Task 8: Quality of Explanations
 
-Status: Backlog
-Quarter: winter26
 
-# Neural Explanations (Vision) Project
 
-- [ ]  Compute the metrics and evaluate the explanations computed in Task 2 (Onboarding)
+- [ ]  Compute the metrics and evaluate the explanations computed in Task 3 (Onboarding)
     - Tip: Read the documentation and use the proper script
 - [ ]  Compute the metrics and evaluate the explanations computed in Task 7 (Different Layer)
     - You will probably need to adapt the script to work with custom and different layers as in Task 7

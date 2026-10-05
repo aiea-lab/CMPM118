@@ -1,9 +1,6 @@
-# TEMPLATE VISION Task 2: Neural Expl Vision Onboarding
+# Task 3: Neural Expl Vision Onboarding
 
-Status: Backlog
-Quarter: winter26
 
-# Neural Explanations for Computer Vision
 
 - [ ]  Read the documentation associated with the Clustered Compositional Explanations Repository
     - [ ]  [https://github.com/KRLGroup/Clustered-Compositional-Explanations](https://github.com/KRLGroup/Clustered-Compositional-Explanations)

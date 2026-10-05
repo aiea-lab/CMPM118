@@ -1,17 +1,12 @@
 # Final task (Task 10): AIEA Auditor Offboarding
 
-Status: Backlog
-Quarter: winter26
 
-<aside>
-💡
 
 Congratulations!  You’ve finished the auditor program!  Now what’s next?
 
 1. You will change from auditor status → active member
 2. You will get the appropriate email, discord, Notion roles.
 3. You will start attending project working sessions and planning meetings, more about that in our [task page](https://www.notion.so/Task-Management-169c03a14c2c806e939ee57d0515c824?pvs=21). 
-</aside>
 
 - [ ]  If you are enrolled in an independent study, make sure you email Leilani your project report; see the requirements in the independent study guide.  If you are enrolled in CMPM 118, upload the project report to Canvas.  If you are auditing the lab without any enrollment, make sure you email Leilani your project report. This needs to be submitted by the deadline specified in the syllabus.
     

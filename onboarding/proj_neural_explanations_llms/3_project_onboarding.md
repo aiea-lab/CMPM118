@@ -1,7 +1,5 @@
-# TEMPLATE XAI_LLM Task 2: Neuron Expl for LLMs Onboarding
+# Task 3: Neuron Expl for LLMs Onboarding
 
-Status: Backlog
-Quarter: winter26
 
 # Neuron Explanations for LLMs
 

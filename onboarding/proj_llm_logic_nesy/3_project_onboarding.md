@@ -1,14 +1,9 @@
-# TEMPLATE Task 2: LLM+Logic Onboarding
+# Task 3: LLM+Logic Onboarding
 
-Status: Backlog
-Labels: Auditor, Intern
-Quarter: Fall25
-🎢 Projects: LLM Logic (https://www.notion.so/LLM-Logic-08711234fffe447e920df81703fdce5f?pvs=21)
+Projects: LLM Logic (https://www.notion.so/LLM-Logic-08711234fffe447e920df81703fdce5f?pvs=21)
 
-<aside>
-🖊️ Your goal for this week is to get the LLM tools running on your machine locally.   This may seem like an “easy task”, but depending on the operating system and specifications, this can prove to be difficult.
+Your goal for this week is to get the LLM tools running on your machine locally.   This may seem like an “easy task”, but depending on the operating system and specifications, this can prove to be difficult.
 
-</aside>
 
 - [ ]  Check out (and document) the following tools:
     - [ ]  ChatGPT API - https://platform.openai.com/docs/overview

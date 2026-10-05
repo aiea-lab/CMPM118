@@ -1,4 +1,4 @@
-# Task: Reproduce a Reported Limitation
+# Task 4: Reproduce a Reported Limitation
 
 ## Objective
 The goal of this task is to move from **reading model documentation → empirically verifying claims**.
@@ -10,7 +10,7 @@ You will:
 
 ## Step 1: Select a Limitation
 
-- [ ] Choose **one limitation** from a model card (from Task 2).
+- [ ] Choose **one limitation** from a model card (from Task 3).
 
 Examples:
 - Bias in outputs (e.g., gender, race, profession)
@@ -106,4 +106,3 @@ Include a table like:
 - Small sample size?
 - Subjectivity in severity scoring?
 - Prompt sensitivity?
-

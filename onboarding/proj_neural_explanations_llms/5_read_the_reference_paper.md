@@ -1,7 +1,5 @@
-# TEMPLATE XAI_LLM Task 5: Read the Reference Paper
+# Task 5: Read the Reference Paper
 
-Status: Backlog
-Quarter: winter26
 
 # Neuron Explanations (LLMs) Project
 

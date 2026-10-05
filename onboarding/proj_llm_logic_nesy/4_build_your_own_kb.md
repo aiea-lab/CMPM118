@@ -1,15 +1,9 @@
-# TEMPLATE LLM Task 4: Build Your Own KB
+# Task 4: Build Your Own KB
 
-Status: Backlog
-Labels: Auditor, Intern
-Quarter: Fall25
+Your goal for this week is to learn how to use a logical reasoning engine for the LLM logic project.
 
-<aside>
-🖊️ Your goal for this week is learn how to use a logical reasoning engine for the LLM logic project.
 
-</aside>
-
-- [ ]  Use the prolog interpreter that from last week:
+- [ ]  Use the Prolog interpreter from Task 3:
     - https://www.swi-prolog.org/pldoc/doc_for?object=section(%27packages/janus.html%27)
     - https://github.com/RussAbbott/pylog
     - (Or any other one).
@@ -17,15 +11,13 @@ Quarter: Fall25
     - KB should have at least 10 facts
     - KB should have at least 1 rule
     - Example: Simpson KB: [https://www.cs.sjsu.edu/~pearce/modules/lectures/prolog/kbase.htm](https://www.cs.sjsu.edu/~pearce/modules/lectures/prolog/kbase.htm)
-    - Reference Book to learn Prolog
-        
-        [Leon and Ehud - 1994 - The Art of Prolog, Second Edition.pdf](Task%203%20Logical%20Reasoning%20in%20Prolog%201aec-eb09/Leon_and_Ehud_-_1994_-_The_Art_of_Prolog_Second_Edition.pdf)
+    - Use the [SWI-Prolog beginner resources](https://www.swi-prolog.org/Links.html) as a reference.
         
     - You’ll be using the same KB in Task 5
-- [ ]  Ensure you get the same results with the prolog intepreter in python.
-- [ ]  Commit your results to github.
+- [ ]  Ensure you get the same results with the Prolog interpreter in Python.
+- [ ]  Commit your results to GitHub.
 
 # Deliverable
 
 - Write one page about getting the tools up and running locally and the tests you ran. Please, include the link to the github repo in this deliverable.
-- Present your writeup in the auditor status meeting…
+- Present your writeup in the auditor status meeting.

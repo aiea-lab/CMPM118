@@ -1,9 +1,6 @@
-# TEMPLATE VISION Task 9: Clustering
+# Task 9: Clustering
 
-Status: Backlog
-Quarter: winter26
 
-# Neural Explanations (Vision) Project
 
 The goal of this week is to test the robustness of explanations with respect to the clustering algorithm used for extracting activation ranges.
 

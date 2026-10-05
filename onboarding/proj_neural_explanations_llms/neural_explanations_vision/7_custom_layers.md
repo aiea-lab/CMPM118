@@ -1,9 +1,6 @@
-# TEMPLATE VISION Task 7: Custom Layers
+# Task 7: Custom Layers
 
-Status: Backlog
-Quarter: winter26
 
-# Neural Explanations (Vision) Project
 
 - [ ]  Modify the script to allow the user to specify the layer(s) for which to compute compositional explanations.
 - [ ]  Generate compositional explanations for 10 random selected units in the layer you selected in Task 6.

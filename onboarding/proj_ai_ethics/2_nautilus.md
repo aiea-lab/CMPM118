@@ -1,10 +1,5 @@
-# TEMPLATE LLM Task 3: Nautilus
+# Task 2: Nautilus
 
-Status: Backlog
-Labels: Auditor
-Quarter: Fall25
-
-# Nautilus
 
 - [ ]  Go through the Nautilus guide:
     
@@ -26,7 +21,7 @@ Quarter: Fall25
                 - You will need to pip install all necessary packages
                 - It is normal to have to wait
         - [ ]  Create PVC
-            - [ ]  name is `cruzid-task3`
+            - [ ]  name is `cruzid-task2`
             - [ ]  size `5Gi`
         - [ ]  Create Deployment
             - [ ]  Create a deployment and attach created PVC to it

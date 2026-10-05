@@ -1,7 +1,5 @@
-# TEMPLATE XAI_LLM Task 4: Run the Code (Nautilus)
+# Task 4: Run the Code (Nautilus)
 
-Status: Backlog
-Quarter: winter26
 
 # Neuron Explanations (LLM) Project
 

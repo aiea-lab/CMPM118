@@ -1,4 +1,6 @@
-🚗 Your goal for this week is run RL algorithms on your Nautilus deployment
+# Task 5: Benchmark RL Algorithms
+
+Your goal for this week is to run RL algorithms on your Nautilus deployment.
 
 Note: Stable Baselines was replaced by Stable Baselines 3, and OpenAI Gym was replaced by Gymnasium, they are not cross compatible
 - [ ]  Read Gymnasium Documentation

@@ -1,9 +1,6 @@
-# TEMPLATE XAI_LLM Task 8: Finetuning LLMs on NLI
+# Task 8: Finetuning LLMs on NLI
 
-Status: Backlog
-Quarter: winter26
 
-# Neural Explanations (LLMs) Project
 
 - This task can be completed either on Nautilus or on your own workstation
 - The goal of this task is to finetune an Open LLMs on the NLI task, transforming the model into a classifier rather than a token-prediction model

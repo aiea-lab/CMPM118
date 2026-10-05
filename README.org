@@ -1,6 +1,6 @@
 #+TITLE: CMPM 118 Github Syllabus
 #+AUTHOR: Leilani Gilpin
-#+MACRO: quarter Spring 2026
+#+MACRO: quarter Fall 2026
 
 * CMPM 118 (AIEA) - Collaborative Research Experiences in the AI Explainability and Accountability (AIEA) Lab
 The full syllabus for the course on Google Drive (link TBD).
@@ -19,14 +19,11 @@ There are two tracks:
 
 ** Projects
 The available projects for {{{quarter}}} are:
-- Robustifying Autonomous Vehicles (AVs)
-- NeuroSymbolic AI (NeSy)
-- Explanatory Educational Tools (XEdu)
-- Self-Explaining Neural Networks (SENNs)
-- Ethical and Responsible Societal Systems
-  - (Could make this into an accronymn like *RAISE*)
+- [[file:onboarding/proj_ai_ethics/][AI Ethics]]
+- [[file:onboarding/proj_llm_logic_nesy/][NeuroSymbolic AI (NeSy)]]
+- [[file:onboarding/proj_neural_explanations_llms/][Neural Explanations for LLMs]]
+- [[file:onboarding/proj_neural_explanations_llms/neural_explanations_vision/][Neural Explanations for Computer Vision]]
+- [[file:onboarding/proj_robustifying_avs/][Robustifying Autonomous Vehicles (AVs)]]
+- [[file:onboarding/proj_self_explaining_neural_networks/][Self-Explaining Neural Networks (SENNs)]]
 
-You can read more about each one of the projects 
-*** TODO Update the AIEA website about each one of the projects.
-- Maybe this could include the *public* thing that Eriq has? 
-*** TODO Update the syllabus somewhere (management tools). 
+Project leads who are creating or revising onboarding tasks should use the [[file:onboarding/task_templates/][project task-authoring guide and templates]].

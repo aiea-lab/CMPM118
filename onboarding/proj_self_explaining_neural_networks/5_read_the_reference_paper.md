@@ -1,9 +1,6 @@
-# TEMPLATE SENN Task 5: Read the Reference Paper
+# Task 5: Read the Reference Paper
 
-Status: Backlog
-Quarter: winter26
 
-# Self-Explainable Deep Neural Network Project
 
 - [ ]  Read the paper https://link.springer.com/article/10.1007/s10489-022-03886-6
     

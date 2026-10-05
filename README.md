@@ -12,7 +12,7 @@
 
 # CMPM 118 (AIEA) - Collaborative Research Experiences in the AI Explainability and Accountability (AIEA) Lab
 
-The full syllabus for the course for Spring 2026 is on [Google Drive](https://docs.google.com/document/d/1ChmglskcTCfQ5edEgZP7qNU9vM63j1kSx6qhxlRWfUY/edit?usp=sharing)
+The full syllabus for the course for Fall 2026 is on [Google Drive](https://docs.google.com/document/d/1ChmglskcTCfQ5edEgZP7qNU9vM63j1kSx6qhxlRWfUY/edit?usp=sharing)
 
 There are two tracks:
 
@@ -69,10 +69,13 @@ will be invited to become an active lab member of the AIEA lab.
 
 ## Projects
 
-The available projects for Spring 2026 are:
+The available projects for Fall 2026 are:
 
--   Robustifying Autonomous Vehicles (AVs)
--   NeuroSymbolic AI (NeSy)
--   Explanatory Educational Tools (XEdu)
--   Self-Explaining Neural Networks (SENNs)
+-   [AI Ethics](onboarding/proj_ai_ethics/)
+-   [NeuroSymbolic AI (NeSy)](onboarding/proj_llm_logic_nesy/)
+-   [Neural Explanations for LLMs](onboarding/proj_neural_explanations_llms/)
+-   [Neural Explanations for Computer Vision](onboarding/proj_neural_explanations_llms/neural_explanations_vision/)
+-   [Robustifying Autonomous Vehicles (AVs)](onboarding/proj_robustifying_avs/)
+-   [Self-Explaining Neural Networks (SENNs)](onboarding/proj_self_explaining_neural_networks/)
 
+Project leads who are creating or revising onboarding tasks should use the [project task-authoring guide and templates](onboarding/task_templates/).

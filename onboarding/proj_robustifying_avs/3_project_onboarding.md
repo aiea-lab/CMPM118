@@ -1,4 +1,6 @@
-🚗 Your goal for this week is to get an autonomous vehicle simulation running on your machine locally.  This may seem like an “easy task”, but depending on the operating system and specifications, this can prove to be difficult.
+# Task 3: Project Onboarding
+
+Your goal for this week is to understand the project and get an autonomous vehicle simulation running on your local machine. Depending on the operating system and hardware, setup may require substantial troubleshooting.
 
 - [ ]  Check out (and document) the specifications for these autonomous vehicle simulators:
     - [ ]  CARLA - https://carla.org//

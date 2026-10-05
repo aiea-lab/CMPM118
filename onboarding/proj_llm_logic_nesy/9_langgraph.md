@@ -1,15 +1,9 @@
-# TEMPLATE LLM Task 9: LangGraph
+# Task 9: LangGraph
 
-Status: Backlog
-Labels: Auditor, Intern
-Quarter: Spring 25
 
-<aside>
-💡
 
 Your goal for this week is to migrate your logical inference engine to LangGraph and expand it’s capabilities
 
-</aside>
 
 - Write one page about your implementation and the tests you ran. Please, include the link to the github repo in this deliverable.
 
