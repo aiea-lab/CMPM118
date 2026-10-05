@@ -32,6 +32,7 @@ The plan is a working document. Update it when results or constraints change, an
 - Push work regularly to the appropriate repository using focused commits and descriptive messages.
 - Keep experiments reproducible by recording code versions, environments, data splits, configurations, and random seeds.
 - Share a concise weekly update covering progress, evidence, blockers, and next steps.
+- Submit all weekly deliverables to Canvas.
 - Ask for help early when access, compute, data, or research decisions block progress.
 - Delete idle Nautilus deployments and follow the project’s data and credential-handling requirements.
 

@@ -11,6 +11,6 @@ After Task 1, choose a project and complete Tasks 2–9 in its folder. The curre
 - [Robustifying Autonomous Vehicles](proj_robustifying_avs/)
 - [Self-Explaining Neural Networks](proj_self_explaining_neural_networks)
 
-To create or revise a track, use the [task-authoring guide and templates](task_templates/).
+To create or revise a track, use the [task-authoring guide and templates](task_templates/). The revised general sequence is: onboarding, Nautilus, math basics, framework basics, topic basics 1, topic basics 2, advanced usage 1, advanced usage 2, paper reading, and interview or additional topics. In revised tracks, [offboarding](10_offboarding.md) is a separate end-of-quarter checklist. Existing project folders currently use the earlier sequence described above; follow your assigned project’s instructions until its track is revised.
 
 To work on these tasks, clone the full repository.
