@@ -1,4 +1,6 @@
-# AI Ethics
+# Critical Analysis (Critical theory)
+
+The existing task sequence below focuses on AI Ethics.
 
 This track develops practical skills for documenting, auditing, and mitigating ethical risks in AI systems.
 

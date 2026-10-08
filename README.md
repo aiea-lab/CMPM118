@@ -4,7 +4,7 @@
 1.  [CMPM 118 (AIEA) - Collaborative Research Experiences in the AI Explainability and Accountability (AIEA) Lab](#org33ae31a)
     1.  [Instructor Information](#org2f5ccea)
     2.  [Course Overview](#org9b7a51e)
-    3.  [Projects](#org63a7d3b)
+    3.  [Onboarding Topics](#org63a7d3b)
 
 
 
@@ -16,13 +16,13 @@ The full syllabus for the course for Fall 2026 is on [Google Drive](https://docs
 
 There are two tracks:
 
-1.  [Auditor track](auditor-onboarding/) this is for **new
+1.  [Auditor track](onboarding/) this is for **new
     undergraduate students** that are interested in joining the AIEA
     Lab.  To be eligible to join the lab as an **active member** (see
     below) you must complete the 10 onboarding tasks within a quarter.
 2.  [Active track](active-research/) this is for **ongoing undergraduate
     students** that have (a) taken at least one quarter for CMPM 118
-    prior **and** (b) completed the 10 onboarding tasks for a project
+    prior **and** (b) completed the 10 onboarding tasks for a topic
     within a quarter.
 
 
@@ -58,7 +58,7 @@ presentation, report, code, results).
 The full grading guidelines are available [here](https://www.notion.so/aiea/Grading-Guidelines-32fc03a14c2c8031a002d1e398eb8fca?source=copy_link).
 
 Students interested in joining the AIEA lab as an active member must
-complete all the tasks of their chosen project, regardless of the
+complete all the tasks of their chosen topic, regardless of the
 number of points earned, as these tasks are the basics of the research
 projects carried on by our lab. All the students who complete the 10
 deliverables by the end of the quarter (the **last day of instruction**)
@@ -67,15 +67,15 @@ will be invited to become an active lab member of the AIEA lab.
 
 <a id="org63a7d3b"></a>
 
-## Projects
+## Onboarding Topics
 
-The available projects for Fall 2026 are:
+Onboarding tasks are organized by topic in folders prefixed with `topic_`. The topics for Fall 2026 are:
 
--   [AI Ethics](onboarding/proj_ai_ethics/)
--   [NeuroSymbolic AI (NeSy)](onboarding/proj_llm_logic_nesy/)
--   [Neural Explanations for LLMs](onboarding/proj_neural_explanations_llms/)
--   [Neural Explanations for Computer Vision](onboarding/proj_neural_explanations_llms/neural_explanations_vision/)
--   [Robustifying Autonomous Vehicles (AVs)](onboarding/proj_robustifying_avs/)
--   [Self-Explaining Neural Networks (SENNs)](onboarding/proj_self_explaining_neural_networks/)
+- [RL and Reasoning + Agentic](onboarding/topic_rl_reasoning_agentic/)
+- [Vision](onboarding/topic_vision/)
+- [NLP](onboarding/topic_nlp/)
+- [Symbolic + Logic + Human-centered](onboarding/topic_symbolic_logic_human_centered/)
+- [Programming](onboarding/topic_programming/)
+- [Critical Analysis (Critical theory)](onboarding/topic_critical_analysis/)
 
-Project leads who are creating or revising onboarding tasks should use the [project task-authoring guide and templates](onboarding/task_templates/).
+Topic leads who are creating or revising onboarding tasks should use the [task-authoring guide and templates](onboarding/task_templates/).

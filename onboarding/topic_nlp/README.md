@@ -1,4 +1,6 @@
-# Neural Explanations for LLMs
+# NLP
+
+The existing task sequence below focuses on Neural Explanations for LLMs.
 
 This track investigates what individual language-model neurons learn and how neuron explanations relate to model behavior.
 
@@ -10,7 +12,7 @@ This track investigates what individual language-model neurons learn and how neu
 
 ## Tasks
 
-Complete the shared [Task 1](../1_onboarding.md), Tasks 2–9 in this folder, and the shared [Task 10](../10_offboarding.md), in numerical order. The separate computer-vision track is in [`neural_explanations_vision/`](neural_explanations_vision/).
+Complete the shared [Task 1](../1_onboarding.md), Tasks 2–9 in this folder, and the shared [Task 10](../10_offboarding.md), in numerical order. The separate computer-vision track is in [Vision](../topic_vision/neural_explanations/).
 
 ## Reading list
 
