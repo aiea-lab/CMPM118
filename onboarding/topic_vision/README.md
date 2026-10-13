@@ -1,8 +1,4 @@
 # Vision
-
-Choose one of the existing task sequences and complete its numbered tasks in order:
-
-- [Neural Explanations for Vision](neural_explanations/): interpret visual neurons and evaluate compositional explanations.
-- [Self-Explaining Neural Networks](self_explaining_neural_networks/): investigate Memory Wrap, memory-based explanations, and error correction.
+Currently only task 3 of the onboarding is ready. Task 4 will be prepared before the end of week 3 of this quarter and will cover how to build and train a neural network.  
 
 Both sequences use the shared [Task 1](../1_onboarding.md) and [Task 10](../10_offboarding.md).
