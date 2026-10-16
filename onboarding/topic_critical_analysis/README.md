@@ -2,7 +2,7 @@
 
 The existing task sequence below focuses on AI Ethics.
 
-This track develops practical skills for documenting, auditing, and mitigating ethical risks in AI systems.
+This track introduces critical perspectives on power, knowledge, and technology, alongside the existing AI ethics project activities.
 
 - **Lead:** Leilani H. Gilpin
 - **Project page:** No dedicated page is currently listed; see the [AIEA Lab projects page](https://aiea-lab.github.io/project/).
@@ -13,9 +13,11 @@ This track develops practical skills for documenting, auditing, and mitigating e
 
 Complete the shared [Task 1](../1_onboarding.md), Tasks 2–9 in this folder, and the shared [Task 10](../10_offboarding.md), in numerical order.
 
+Task 3 is an introductory tutorial: [Critical Analysis Crash Course](3_project_onboarding.md). It uses close reading and written analysis, with no coding or tooling setup. Tasks 4–9 retain the existing AI ethics project activities.
+
 ## Reading list
 
-- The model cards selected in [Task 3](3_project_onboarding.md)
+- Eve Tuck and K. Wayne Yang, “Decolonization is not a metaphor” (2012), and Catherine D'Ignazio and Lauren F. Klein, “The Power Chapter” in *Data Feminism* (2020). Links and reading exercises are in [Task 3](3_project_onboarding.md).
 - The model documentation and limitation selected in [Task 4](4_reproduce_limitation.md)
 - The evaluation and mitigation sources selected with the project lead for Tasks 5–9
 
