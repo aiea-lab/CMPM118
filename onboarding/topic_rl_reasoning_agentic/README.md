@@ -13,6 +13,8 @@ This track uses simulation, reinforcement learning, and falsification to identif
 
 Complete the shared [Task 1](../1_onboarding.md), Tasks 2–9 in this folder, and the shared [Task 10](../10_offboarding.md), in numerical order.
 
+Task 3 is an introductory tutorial: [Reinforcement Learning Basics](3_project_onboarding.md). Complete it before starting the project activities in Task 4.
+
 ## Reading list
 
 - John Schulman et al. [Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347).

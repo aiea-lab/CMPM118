@@ -12,7 +12,7 @@ This track investigates what individual language-model neurons learn and how neu
 
 ## Tasks
 
-Complete the shared [Task 1](../1_onboarding.md), Tasks 2–9 in this folder, and the shared [Task 10](../10_offboarding.md), in numerical order. The separate computer-vision track is in [Vision](../topic_vision/neural_explanations/).
+Complete the shared [Task 1](../1_onboarding.md), Tasks 2–9 in this folder, and the shared [Task 10](../10_offboarding.md), in numerical order. The separate computer-vision track is in [Vision](../topic_vision/).
 
 ## Reading list
 
