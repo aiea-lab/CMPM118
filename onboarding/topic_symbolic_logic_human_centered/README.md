@@ -14,7 +14,7 @@ This track studies faithful reasoning systems that combine language models with 
 
 Complete the shared [Task 1](../1_onboarding.md), Tasks 2–9 in this folder, and the shared [Task 10](../10_offboarding.md), in numerical order.
 
-Task 3 is an introductory tutorial: [Symbolic Logic and Reasoning Basics](3_project_onboarding.md). Complete it before starting the project activities in Task 4.
+Task 3 is an introductory tutorial: [Symbolic Logic and Reasoning Basics](3_project_onboarding.md). Continue with [Task 4: Build a Prolog Knowledge Base](4_build_your_own_kb.md) to practice framework basics.
 
 ## Reading list
 

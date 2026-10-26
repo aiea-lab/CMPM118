@@ -74,4 +74,4 @@ Upload one PDF or Markdown document to Canvas containing your predictions and re
 
 Completion requires all four exercises. Strong work represents each author accurately, uses page or section citations, distinguishes evidence from inference, and develops a supported argument. Agreement with the authors or instructor is not an assessment criterion.
 
-This replaces the previous Task 3 tooling assignment. Tasks 4–9 still contain the existing AI ethics project activities; this tutorial provides a reading foundation for that work.
+This replaces the previous Task 3 tooling assignment. [Task 4](4_feminist_frameworks.md) continues with feminist analytical frameworks. Tasks 5–9 still contain the existing AI ethics project activities.
