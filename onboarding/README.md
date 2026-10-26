@@ -9,7 +9,7 @@ For the AIEA Auditor program (CMPM 118), you will complete ten onboarding tasks 
 - [Programming](topic_programming/)
 - [Critical Analysis (Critical theory)](topic_critical_analysis/)
 
-Complete the shared [Task 1](1_onboarding.md), then follow the numbered tasks in your chosen topic’s sequence. The existing sequences retain Tasks 2–9 and the shared [Task 10](10_offboarding.md). Vision offers two sequences; Programming is reserved for a future sequence.
+Complete the shared [Task 1](1_onboarding.md), then follow the numbered tasks in your chosen topic’s sequence. The existing sequences retain Tasks 2–9 and the shared [Task 10](10_offboarding.md). Vision and Programming currently offer Task 3 tutorials; the remaining programming tasks have not yet been added. Task 3 in RL, Symbolic, and Critical Analysis also introduces foundational skills; Critical Analysis uses readings and written exercises without code.
 
 There is an overview of the projects for Fall 2026 in our [group google drive](https://drive.google.com/file/d/1sICr8uCb4EuA8vS409f3C9wCmWOEYOBk/view?usp=drive_link).
 
