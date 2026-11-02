@@ -3,12 +3,13 @@
 For the AIEA Auditor program (CMPM 118), you will complete ten onboarding tasks over the ten-week quarter. Tasks are organized by topic in folders prefixed with `topic_`:
 
 - [RL and Reasoning + Agentic](topic_rl_reasoning_agentic/)
+- [Vision](topic_vision/)
 - [NLP](topic_nlp/)
 - [Symbolic + Logic + Human-centered](topic_symbolic_logic_human_centered/)
 - [Programming](topic_programming/)
 - [Critical Analysis (Critical theory)](topic_critical_analysis/)
 
-Complete the shared [Task 1](1_onboarding.md), then follow the numbered tasks in your chosen topic’s sequence. The existing sequences retain Tasks 2–9 and the shared [Task 10](10_offboarding.md). Programming offers Tasks 3–5; its remaining tasks have not yet been added. Task 3 in RL, Symbolic, and Critical Analysis also introduces foundational skills; Critical Analysis uses readings and written exercises without code. Task 4 covers framework basics in these four tracks: [Prolog](topic_symbolic_logic_human_centered/4_build_your_own_kb.md), [pytest and CI](topic_programming/4_testing_and_ci.md), [Gymnasium](topic_rl_reasoning_agentic/4_gymnasium_basics.md), and [feminist analytical frameworks](topic_critical_analysis/4_feminist_frameworks.md).
+Complete the shared [Task 1](1_onboarding.md), then follow the numbered tasks in your chosen topic’s sequence. The existing sequences retain Tasks 2–9 and the shared [Task 10](10_offboarding.md). Vision offers [Task 3](topic_vision/3_pytorch_crash_course.ipynb) and [Task 4](topic_vision/4_training_neural_networks/Task_Instructions.pdf) from the main branch. Programming offers Tasks 3–5; its remaining tasks have not yet been added. Task 3 in RL, Symbolic, and Critical Analysis also introduces foundational skills; Critical Analysis uses readings and written exercises without code. Task 4 covers framework basics in these four tracks: [Prolog](topic_symbolic_logic_human_centered/4_build_your_own_kb.md), [pytest and CI](topic_programming/4_testing_and_ci.md), [Gymnasium](topic_rl_reasoning_agentic/4_gymnasium_basics.md), and [feminist analytical frameworks](topic_critical_analysis/4_feminist_frameworks.md).
 
 Task 5 introduces the first core topic in each track:
 
