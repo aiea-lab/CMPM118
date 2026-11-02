@@ -16,6 +16,9 @@ Complete the shared [Task 1](../1_onboarding.md), Tasks 2–9 in this folder, an
 
 Task 3 is an introductory tutorial: [Symbolic Logic and Reasoning Basics](3_project_onboarding.md). Continue with [Task 4: Build a Prolog Knowledge Base](4_build_your_own_kb.md) to practice framework basics.
 
+
+[Task 5: Recursive Rules and Explanations](5_understanding_logical_reasoning.md) introduces the first core topic through a small implementation or applied analysis and a controlled comparison.
+
 ## Reading list
 
 - [Logic-LM: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning](https://arxiv.org/abs/2305.12295)

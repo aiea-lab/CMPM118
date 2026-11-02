@@ -12,7 +12,10 @@ This track investigates what individual language-model neurons learn and how neu
 
 ## Tasks
 
-Complete the shared [Task 1](../1_onboarding.md), Tasks 2–9 in this folder, and the shared [Task 10](../10_offboarding.md), in numerical order. The separate computer-vision track is in [Vision](../topic_vision/).
+Complete the shared [Task 1](../1_onboarding.md), Tasks 2–9 in this folder, and the shared [Task 10](../10_offboarding.md), in numerical order.
+
+
+[Task 5: NLI and Lexical Heuristics](5_read_the_reference_paper.md) introduces the first core topic through a small implementation or applied analysis and a controlled comparison.
 
 ## Reading list
 

@@ -15,6 +15,9 @@ Complete the shared [Task 1](../1_onboarding.md), Tasks 2–9 in this folder, an
 
 Task 3 is an introductory tutorial: [Reinforcement Learning Basics](3_project_onboarding.md). Continue with [Task 4: Gymnasium Environments](4_gymnasium_basics.md) to practice framework basics.
 
+
+[Task 5: Exploration and Tabular Learning](5_benchmarking_rl_algorithms.md) introduces the first core topic through a small implementation or applied analysis and a controlled comparison.
+
 ## Reading list
 
 - John Schulman et al. [Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347).

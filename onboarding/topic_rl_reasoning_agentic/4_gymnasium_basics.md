@@ -86,4 +86,4 @@ Submit code, `requirements.txt`, README commands, configuration, episode logs or
 
 Assessment considers correct interface use, terminal/truncation handling, reproducible comparisons, and honest interpretation rather than a target score. If installation is blocked, bring the error to a working session and use a Python environment with Gymnasium available. Submit setup evidence and clearly label any unexecuted parts; Task 3's handwritten corridor alone does not demonstrate the framework objective.
 
-Tasks 5–9 still contain the vehicle-focused project sequence. Confirm project-specific simulator setup with the lead before starting that sequence; CARLA installation is no longer a prerequisite for Task 4.
+[Task 5](5_benchmarking_rl_algorithms.md) continues tabular learning in Gymnasium. Tasks 6–9 retain the vehicle-focused project sequence; confirm project-specific simulator setup with the lead before beginning those activities.

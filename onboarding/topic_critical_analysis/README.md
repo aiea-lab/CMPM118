@@ -13,13 +13,17 @@ This track introduces critical perspectives on power, knowledge, and technology,
 
 Complete the shared [Task 1](../1_onboarding.md), Tasks 2–9 in this folder, and the shared [Task 10](../10_offboarding.md), in numerical order.
 
-Task 3 is an introductory tutorial: [Critical Analysis Crash Course](3_project_onboarding.md). It uses close reading and written analysis, with no coding or tooling setup. [Task 4: Feminist Frameworks for Technology Analysis](4_feminist_frameworks.md) continues with readings and applied analysis. Tasks 5–9 retain the existing AI ethics project activities.
+Task 3 is an introductory tutorial: [Critical Analysis Crash Course](3_project_onboarding.md). It uses close reading and written analysis, with no coding or tooling setup. [Task 4: Feminist Frameworks for Technology Analysis](4_feminist_frameworks.md) continues with readings and applied analysis. Tasks 6–9 retain the existing AI ethics project activities.
+
+
+[Task 5: Categories, Context, and Dataset Documentation](5_dataset_context.md) introduces the first core topic through a small implementation or applied analysis and a controlled comparison.
 
 ## Reading list
 
 - Eve Tuck and K. Wayne Yang, “Decolonization is not a metaphor” (2012), and Catherine D'Ignazio and Lauren F. Klein, “The Power Chapter” in *Data Feminism* (2020). Links and reading exercises are in [Task 3](3_project_onboarding.md).
 - Kimberlé Crenshaw, “Demarginalizing the Intersection of Race and Sex” (1989), and Chapter 3 of *Data Feminism*. Links and exercises are in [Task 4](4_feminist_frameworks.md).
-- The evaluation and mitigation sources selected with the project lead for Tasks 5–9
+- Chapter 6 of *Data Feminism* and Gebru et al., *Datasheets for Datasets*. Links and exercises are in [Task 5](5_dataset_context.md).
+- The evaluation and mitigation sources selected with the project lead for Tasks 6–9
 
 ## Published papers
 

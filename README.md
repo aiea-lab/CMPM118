@@ -72,7 +72,6 @@ will be invited to become an active lab member of the AIEA lab.
 Onboarding tasks are organized by topic in folders prefixed with `topic_`. The topics for Fall 2026 are:
 
 - [RL and Reasoning + Agentic](onboarding/topic_rl_reasoning_agentic/)
-- [Vision](onboarding/topic_vision/)
 - [NLP](onboarding/topic_nlp/)
 - [Symbolic + Logic + Human-centered](onboarding/topic_symbolic_logic_human_centered/)
 - [Programming](onboarding/topic_programming/)

@@ -63,4 +63,4 @@ Upload one PDF or Markdown document to Canvas under Deliverable 4. Include predi
 
 Assessment considers accurate interpretation, specific textual evidence, meaningful differences between frameworks, separation of hypothesis from observed fact, and supported revisions. Agreement with the instructor is not an assessment criterion. If a required link is unavailable, locate the same text through the library or ask the lead for a course copy; document the edition and page numbering used.
 
-Task 5 retains the existing model-based subgroup evaluation activity. Bring your research memo to that task and reconsider the subgroup definitions before collecting outputs. This Task 4 supplies an analytical foundation; it does not require an experiment or model card from Task 3.
+[Task 5](5_dataset_context.md) applies these frameworks to dataset categories and documentation. Bring your research memo to that task. Neither assignment requires model queries or data collection.

@@ -1,23 +1,52 @@
-# Task 5: Read the Reference Paper
+# Task 5: Topic Basics 1 — Natural Language Inference and Lexical Heuristics
 
+## Objective and prerequisites
 
-# Neuron Explanations (LLMs) Project
+Understand natural language inference (NLI), distinguish prediction from explanation, and test a simple lexical heuristic. Build on the NLI model and explanation outputs from [Task 4](4_run_the_code_nautilus.md), but complete the small baseline locally using only Python's standard library if cluster access is unavailable. Allow 4–6 hours.
 
-- [ ]  Read the paper
-    - [ ]  Site: [https://arxiv.org/abs/2006.14032](https://arxiv.org/abs/2006.14032)
-    
-    Note: Focus in particular on the method part and the NLI related results
-    
+Read Jesse Mu and Jacob Andreas, [*Compositional Explanations of Neurons*](https://arxiv.org/abs/2006.14032), focusing on the method and NLI experiments. Keep the paper's experiments separate from your own baseline results: this task does not reproduce its neuron-analysis method.
 
-## Deliverables
+## 1. Define the prediction task
 
-- [ ]  Write a brief summary in your own words of what you understood from the paper.
-    
-    **Important:** No LLMs are allowed! The only allowed usage is for grammar checks (style improvements are not allowed)
-    
-    - Follow the following structure for your report: Introduction, Method, Results, Conclusion
-        - There is no need to include any equation! Use your own words to describe them!
-        - There is no need to include any table of results! Again, use your own words!
-        - There is no need to include any image!
-        - No references or citations are required!
-    - The maximum is 2 pages
+An NLI example contains a premise, a hypothesis, and a relation label: **entailment** (the hypothesis follows), **contradiction** (it conflicts), or **neutral** (it is not established either way). Use the premise as the evidence rather than filling gaps with a plausible story.
+
+Label and explain these examples before implementing the baseline:
+
+| Premise | Hypothesis |
+|---|---|
+| A dog is running. | An animal is running. |
+| No dogs are running. | A dog is running. |
+| A dog is running. | A dog is brown. |
+
+Write a 150–200 word concept note on these labels, including one ambiguous case where a missing assumption changes the annotation. Explain how that ambiguity should be recorded rather than hidden.
+
+## 2. Implement a deliberately limited baseline
+
+Tokenize with lowercase word matches using `re.findall(r"\b\w+\b", text.lower())`, then convert each sentence to a token set. Implement this fixed prediction rule:
+
+1. If the hypothesis token set is a subset of the premise token set, predict entailment.
+2. Otherwise, predict neutral.
+
+The rule never predicts contradiction. Predict its output on the examples above and explain why this is not a complete NLI system. Add checks for exact matches, capitalization/punctuation, and a non-subset. Do not change the rule after seeing results; the aim is to expose its assumptions.
+
+## 3. Design a small challenge set
+
+Write 18 distinct premise–hypothesis pairs: six per gold label. Include word-order reversals, negation, paraphrases with low lexical overlap, and high-overlap neutral cases. Use fictional ordinary scenarios without collecting personal data. Store IDs, text, gold labels, phenomenon tags, and a short label justification in CSV or JSON.
+
+Define the cases and gold labels before running predictions. This is a hand-designed challenge set, not a representative benchmark. If a classmate is available, ask them to independently label six examples and document disagreements; otherwise re-check those six after a break and state that no independent annotator was involved.
+
+Run the baseline on all 18 examples. Report overall accuracy, per-label recall with counts, and a 3-by-3 confusion table with true labels as rows and predicted labels as columns. Show the counts even when a class is never predicted. Analyze at least four mistakes across different phenomenon tags. Explain what the challenge set can reveal and why its aggregate score cannot estimate broad NLI ability.
+
+## 4. Connect failures to the reference paper
+
+Write a paper summary organized as Introduction, Method, Results, and Conclusion, maximum two pages. Use your own words to distinguish a neuron's activation, a compositional concept used to describe it, and evidence about model behavior. Identify one claim about NLI heuristics and what experiment or result supports it. Equations and figures are optional; include section or page references so the evidence can be located.
+
+**Writing policy retained from the original Task 5:** LLM use is allowed only for grammar checks on this paper summary, not for drafting, interpretation, or style improvements. Write the summary yourself.
+
+If you have Task 4's outputs, select three neuron explanations and propose a hypothesis about model behavior for each, with one supporting and one challenging input. If those outputs are unavailable, select one NLI example or result discussed in the paper and propose the same kind of test, identifying it as a proposed test rather than a model result you generated. A plausible explanation is not automatically a causal account.
+
+## Deliverable and evaluation
+
+Submit the paper summary, challenge set and annotation notes, runnable baseline and checks, predictions, confusion table, and a 300–400 word analysis to Canvas under Deliverable 5. Include versions, commands, whether model outputs were available, and the distinction between observed and proposed results.
+
+Assessment considers NLI concepts, controlled examples, accurate metrics, evidence-based paper reading, and limitations. No model training or new cluster deployment is required for the local baseline. If access to the paper fails, request a course copy and document the edition used; do not replace the reading with an autogenerated summary.
