@@ -77,6 +77,7 @@ For your final onboarding task, you will interview with the project(s) that you 
 **Tags:** Neuro-symbolic AI, faithful reasoning, LLM reasoning, formal logic, chain-of-thought reasoning, verification, symbolic reasoning, and trustworthy AI.
 
 **Contact:**  Olivia Peiyu Wang — [pwang95@ucsc.edu](mailto:pwang95@ucsc.edu)
+
 ---
 
 ### LayerSkip — NLP
